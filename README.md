@@ -410,3 +410,5 @@ const vm = Vue()
 
 本文介绍了 Vue的源码构建对应的四个入口文件 以及打包产物的不同，然后介绍了 Vue的本质，就是一个构造函数。
  
+
+[本节 手写vue2项目（持续更新）完整代码 github地址](https://github.com/parrot-designa/learn-vue2-entry)
