@@ -1,1 +1,2 @@
-export * from '../../shared/util';
+export * from '@/my-vue2/shared/util';
+export * from './debug';

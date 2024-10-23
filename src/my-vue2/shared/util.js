@@ -9,3 +9,5 @@ export function isPrimitive(value) {
       typeof value === 'boolean'
     )
 }
+// 空函数 可以避免undefined错误
+export function noop(a, b, c) {}
